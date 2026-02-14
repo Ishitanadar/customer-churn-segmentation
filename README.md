@@ -83,7 +83,7 @@ The cleaned dataset is exported to `data/processed/` and used directly in Tablea
 
 ### Dashboard Preview:
 
-![Dashboard 1 – Customer Overview](dashboards/dashboard_1.png)
+![Dashboard 1 – Customer Overview](dashboards/Dashboard 1.png)
 
 ---
 
@@ -100,7 +100,7 @@ The cleaned dataset is exported to `data/processed/` and used directly in Tablea
 
 ### Dashboard Preview:
 
-![Dashboard 2 – Churn & Retention Insights](dashboards/dashboard_2.png)
+![Dashboard 2 – Churn & Retention Insights](dashboards/Dashboard 2.png)
 
 ---
 

@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Tableau temp / backup files
+*.twbr
+*.twbx~
+.~*
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.env
